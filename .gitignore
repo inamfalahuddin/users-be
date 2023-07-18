@@ -1,0 +1,12 @@
+.DS_Store
+
+# All log files
+*.log
+
+# Dependency directories
+node_modules/
+
+# dist
+dist/
+
+# .env
